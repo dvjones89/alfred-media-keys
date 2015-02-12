@@ -13,4 +13,4 @@ This should work with any PC keyboard, as well as Vintage apple hardware, to ret
 * Alfred (and it's PowerPack)
 
 # Installation
-Simply download the Vintage-Media-Keys.workflow and double-click the file. Alfred should import it automatically.
+Simply download the Alfred-Media-Keys.alfredworkflow and double-click the file. Alfred should import it automatically.
