@@ -10,7 +10,7 @@ Already a huge fan of Alfred, and keen to avoid another dependency on my machine
 This should work with any PC keyboard, as well as Vintage apple hardware, to retrofit the media control keys.
 
 # Requirements:
-* Alfred (and it's PowerPack)
+* Alfred (and its PowerPack)
 
 # Installation
 Simply download [Alfred-Media-Keys.alfredworkflow](https://github.com/dvjones89/alfred-media-keys/raw/master/Alfred-Media-Keys.alfredworkflow) and open the file. Alfred should import it automatically.
